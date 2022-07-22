@@ -3,7 +3,7 @@ import styled from "styled-components";
 const App = () => {
   return (
     <PageViewWrapper>
-      <Center>here it starts</Center>
+      <Center>here it startss</Center>
     </PageViewWrapper>
   );
 };
